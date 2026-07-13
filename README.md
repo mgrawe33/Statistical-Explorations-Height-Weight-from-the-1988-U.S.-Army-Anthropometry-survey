@@ -1,2 +1,2 @@
-# Statistical-Explorations-Height-Weight-from-the-1988-U.S.-Army-Anthropometry-survey
-This is a class assignment for DSCI-8133
+# Statistical-Explorations for DSCI-8133
+This is a repository in which I will store notebooks for reference to perform statistical calculations.
